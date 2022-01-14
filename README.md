@@ -2,8 +2,6 @@
 
 Android Facebook Twitter Google Logins
 
-Sample app, trying to have the latest google/twitter/facebook logins code samples.
-
 ### 1. Email login
 
 simple email / password login. material design. nothing fancy. nothing to configure
